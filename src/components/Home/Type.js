@@ -6,14 +6,14 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Developer",
-          "Deep Learning Engineer",
-          "MERN Stack Developer",
-          "Open Source Contributor",
+          "Estimer le prix de votre Bien",
+          "Comparer le prix au m2",
+          "Consulter les dernier avis des internautes",
+          "Calculer votre capacité d'emprunt",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 20,
       }}
     />
   );

@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
             from <span className="purple"> Bhubaneswar, India.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
+            <br />I am a junior pursuing IMSC in Maths  and Computing in BIT
             Mesra.
             <br />
             <br />
