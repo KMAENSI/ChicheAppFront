@@ -23,7 +23,7 @@ function Home() {
               <h1 className="heading-name">
                 C'est l'application 
                 <strong className="main-name"> Chiche </strong>
-                (ou pas chiche )
+                (ou pas chiche) 💪
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -39,9 +39,10 @@ function Home() {
                 style={{ maxHeight: "450px" }}
               />
             </Col>
-          </Row>
+          </Row> 
         </Container>
       </Container>
+    
       <Home2 />
     </section>
   );
